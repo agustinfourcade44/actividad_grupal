@@ -1,11 +1,14 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: #26B2F3;
 }
 
 .image{
-    border: 5px solid green;
+    border: 3px solid rgb(173, 166, 166);
     border-radius: 10px;
     height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .link-button {
@@ -17,6 +20,7 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
 h1{
     text-align: center;
     border-radius: 20px;
@@ -24,4 +28,7 @@ h1{
     background-color: #9b9b9b;
     width: fit-content;
     margin: 0 auto;
+}
+p {
+    background-color: #097fb6;
 }
