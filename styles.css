@@ -6,6 +6,9 @@ body {
     border: 3px solid rgb(173, 166, 166);
     border-radius: 10px;
     height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .link-button {
