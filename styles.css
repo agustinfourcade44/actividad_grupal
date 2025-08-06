@@ -21,6 +21,14 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+h1{
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #9b9b9b;
+    width: fit-content;
+    margin: 0 auto;
+}
 p {
     background-color: #097fb6;
 }
